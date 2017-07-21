@@ -1,3 +1,2 @@
 # Learning
-Learning 
-hi Im testing
+Learning creating a JS Test Framework on Mocha.
